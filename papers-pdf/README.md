@@ -1,0 +1,2 @@
+# Downloadable Papers
+> This directory contains a pletora of research by others in field. All papers are downloadable. These are those that are made publicly available and will unlikely include any papers that is only available to members of certain economic associations - for those papers, they will simply be referenced in topic notes or topic directory of field of study and linked but no direct download would be available.
